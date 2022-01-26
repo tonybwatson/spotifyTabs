@@ -1,0 +1,1 @@
+This application will allow the user to automatically pull up guitar tabs for song playing through Spotify.
